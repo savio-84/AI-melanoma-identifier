@@ -1,0 +1,14 @@
+*.keras
+venv
+cancer_dataset
+csvs
+HAM10000*/
+PetImages
+resultados
+HAM10000*
+hmnist*
+kagglecatsanddogs_5340.zip
+cancer
+nocancer
+cuda-repo-wsl-ubuntu-12-2-local_12.2.2-1_amd64.deb
+CDLA-Permissive-2.0.pdf
